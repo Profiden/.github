@@ -1,5 +1,7 @@
 # Profiden - Your Online Profile in a Few Clicks!
 
+  <img  align="right" src="https://komarev.com/ghpvc/?username=profiden&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" />
+
 Profiden is a free and user-friendly online platform that allows you to create your personalized online profile with ease. With its responsive design, appealing UI, and hassle-free process, Profiden makes it simple for anyone to showcase their skills, interests, and accomplishments to the world. 
 
 ## Features:
