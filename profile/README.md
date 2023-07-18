@@ -20,7 +20,7 @@ Profiden is a free and user-friendly online platform that allows you to create y
 
 |   |   |   |
 |---|---|---|
-| <img height="100" width="100" src="./images/axorax.webp"> <br> <p align="center">Axorax</p> | <img height="100" width="100" src="./images/cacto.webp"> <br> <p align="center">Cactochan</p> | <img height="100" width="100" src="./images/coder.webp"> <br> <p align="center">Coder Master</p> |
+| <img height="100" width="100" src="https://profiden.github.io/profiden/images/axorax.webp"> <br> <p align="center">Axorax</p> | <img height="100" width="100" src="https://profiden.github.io/profiden/images/cacto.webp"> <br> <p align="center">Cactochan</p> | <img height="100" width="100" src="https://profiden.github.io/profiden/images/coder.webp"> <br> <p align="center">Coder Master</p> |
 | <p align="center">Programmer</p> | <p align="center">Programmer</p> | <p align="center">Programmer</p> |
 
 ## Contact Us:
