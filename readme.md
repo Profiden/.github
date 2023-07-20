@@ -2,6 +2,8 @@
 
 Profiden is a free and user-friendly online platform that allows you to create your personalized online profile with ease. With its responsive design, appealing UI, and hassle-free process, Profiden makes it simple for anyone to showcase their skills, interests, and accomplishments to the world. 
 
+---
+
 ## Features:
 - **100% Free**: Profiden is completely free to use, ensuring accessibility for everyone.
 - **Responsive**: The platform is designed to work seamlessly on various devices, from desktops to mobile phones.
@@ -10,6 +12,7 @@ Profiden is a free and user-friendly online platform that allows you to create y
 - **Testimonials**: Let others vouch for your skills! Collect testimonials to add credibility to your profile.
 - **Looks Cool**: Stand out from the crowd with stylish and modern profile layouts.
 
+---
 
 ## Getting Started:
 1. **Create Account**: Sign up with Profiden to begin building your online profile.
